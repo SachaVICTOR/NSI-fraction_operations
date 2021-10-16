@@ -133,10 +133,3 @@ if __name__ == "__main__":
   """
   import doctest
   doctest.testmod()
-
-
-print(somme([4,5],[2,4]))
-print(produit([4,5],[2,4]))
-print(division([4,5],[2,4]))
-print(soustraction([4,5],[2,4]))
-print(reduire([440,800]))
