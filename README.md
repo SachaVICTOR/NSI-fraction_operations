@@ -1,5 +1,4 @@
-# NSI-fraction_operations
-Installation :
+#Installation :
 Dans le terminal shell de votre éditeur de code, entrez la commande suivante : 
 git clone https://github.com/SachaVICTOR/NSI_fraction_operations.git
 
